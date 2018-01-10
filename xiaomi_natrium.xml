@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<project path="/" name="ubports-natrium" remote="bk" revision="master" />
+<project path=".repo/local_manifests" name="ubports-natrium" remote="bk" revision="master" />
 
 <project path="device/xiaomi/natrium" name="android_device_xiaomi_natrium" remote="bk" revision="cm-14.1" />
 
