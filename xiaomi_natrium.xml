@@ -11,11 +11,7 @@
 
 <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="bk" revision="cm-14.1" />
 
-<project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="los" revision="cm-14.1" />
-
 <project path="vendor/qcom/opensource_cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="los" revision="cm-14.1" />
-
-<project path="external/ant-wireless/antradio-library" name="Android_antradio-library" remote="ant" revision="dev" />
 
 <remote name="bk"
      fetch="https://github.com/BlueKenny"
